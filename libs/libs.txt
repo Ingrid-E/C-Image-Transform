@@ -1,0 +1,5 @@
+#include <fstream>: Allow to manipulate files trough strings line by line.
+#include <sstream>: Allow to convert integers into strings and strings into integers.
+#include <cstdlib>: Allows to operate with the console, with functions like pause or exit that ends the programm.
+#include <iostream>: Mainly allows to use cin to inputs and cout to outputs.
+#include <string>: Allows to delay with character string.
